@@ -1,0 +1,25 @@
+# docker build
+configure
+Makefile
+Dockerfile
+docker-compose.yml
+extends.yml
+
+# source code
+node_modules
+public
+src
+.eslintrc.js
+babel.config.js
+package-lock.json
+package.json
+vue.config.js
+# source code
+source
+
+# log
+*.log
+log/*
+
+# visual studio code
+.vscode
